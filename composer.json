@@ -1,5 +1,5 @@
 {
-    "name": "erivello/simple-html-dom-bundle",
+    "name": "anisimov/simple-html-dom-bundle",
     "description": "Bundle around Simple HTML DOM library",
     "type": "symfony-bundle",
     "keywords": ["html", "dom", "php"],
